@@ -21,6 +21,10 @@
 
 <br/>  
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luqui-Araujo" align="left"/>
+
+<br/>
+
 
 ## My Skill Set  
 <table><tr><td valign="center" width="33%">
@@ -81,7 +85,7 @@
 
 ## Stats
 <img src="https://github-readme-stats.vercel.app/api?username=Luqui-Araujo&theme=dracula&show_icons=true&count_private=true&hide_border=true" align="left" />  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luqui-Araujo" />
+
 
 <br/>  
 

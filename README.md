@@ -81,7 +81,7 @@
 
 ## Stats
 <img src="https://github-readme-stats.vercel.app/api?username=Luqui-Araujo&theme=dracula&show_icons=true&count_private=true&hide_border=true" align="left" />  
-<img src="https://github-readme-stats.vercel.app/api?username=Luqui-Araujo&show_icons=true&theme=dracula" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luqui-Araujo" />
 
 <br/>  
 

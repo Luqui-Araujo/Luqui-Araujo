@@ -10,10 +10,10 @@
 </div>  
   
 
-- 💡Atualmente trabalhando em alguns projetos pessoais para me aperfeiçoar. Em busca de novas oportunidades desafiadoras onde eu possa me desenvolver.
+- 💡Atualmente trabalhando em alguns projetos pessoais para me aperfeiçoar. Em busca de novas oportunidades onde eu possa me desenvolver.
   
 
-- 👀Atualmente estudando desenvolvimento full-stack, porém tenho um interesse em particular no front.  
+- 👀Atualmente estudando desenvolvimento full-stack, porém com um interesse em particular no front.  
   
 
 - ❤️Amante da música

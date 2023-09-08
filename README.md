@@ -3,7 +3,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luqui-Araujo&show_icons=true&theme=dracula)
 
-<img align="right" alt="Coding" width="400" src="<<img align="right" alt="Coding" width="400" src="[(https://i.gifer.com/VzuL.gif)](https://media.tenor.com/-vzvMjhtt8sAAAAi/one-piece-luffy.gif)">
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/VzuL.gif">
+
 
 <!--
 **Luqui-Araujo/Luqui-Araujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

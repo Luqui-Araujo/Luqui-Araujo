@@ -66,7 +66,7 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/luquiviana" target="_blank">
-<img src="https://www.flaticon.com/br/icones-gratis/logotipo-do-instagram"/>
+<img src="https://icons8.com.br/icon/Xy10Jcu1L2Su/instagram"/>
 </a>  
 </div>  
   

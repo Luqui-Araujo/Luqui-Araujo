@@ -58,10 +58,8 @@
 
 <br/>  
 
-<div align="right">
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=8sez3qenp13y1qkaf6zmahuqx&unique={true|1|on|yes})
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=8sez3qenp13y1qkaf6zmahuqx)
-</div>
 
 <br/>  
 
@@ -70,7 +68,6 @@
 </div>  
   
 
-<br/>  
 
 
 

@@ -58,7 +58,6 @@
 
 <br/>  
 
-## Listening to
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=8sez3qenp13y1qkaf6zmahuqx)
 
 <br/>  

@@ -81,7 +81,7 @@
 
 ## Stats
 <img src="https://github-readme-stats.vercel.app/api?username=Luqui-Araujo&theme=dracula&show_icons=true&count_private=true&hide_border=true" align="left" />  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luqui-Araujo&show_icons=true&theme=dracula")
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luqui-Araujo&show_icons=true&theme=dracula)
 
 <br/>  
 

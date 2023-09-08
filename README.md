@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/Luqui-Araujo/Luqui-Araujo/blob/main/header.png?raw=true" align="center" style="width: 100%" />
+<img src="https://github.com/Luqui-Araujo/Luqui-Araujo/blob/main/capa.png?raw=true" align="center" style="width: 100%" />
 </div>  
   
 <br/>

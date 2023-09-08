@@ -58,7 +58,7 @@
 
 <br/>  
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=8sez3qenp13y1qkaf6zmahuqx&unique={true|1|on|yes})
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=8sez3qenp13y1qkaf6zmahuqx&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=8sez3qenp13y1qkaf6zmahuqx&redirect=true)
 
 
 <br/>  

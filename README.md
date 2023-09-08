@@ -10,13 +10,13 @@
 </div>  
   
 
-- 💡Currently working on a few personal projects to help me improve my skills. I am also looking for internships and other opportunities to gain experience in the tech industry.
+- 💡Atualmente trabalhando em alguns projetos pessoais para me aperfeiçoar, em busca de novas oportunidades onde eu possa me desenvolver.
   
 
-- 👀I am currently learning full-stack development, with a particular interest in the front end  
+- 👀Atualmente estudando desenvolvimento full-stack, porém tenho um interesse em particular no front.  
   
 
-- ❤️Music lover  
+- ❤️Amante de música
   
 
 <br/>
@@ -30,7 +30,7 @@
 <br/>  
 
 
-## Contacts
+## Contatos
 <div align="center">
 <a href="http://linkedin.com/in/lucas-viana-8b2180229" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />

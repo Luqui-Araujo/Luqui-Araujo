@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">My name is Lucas. I am passionate about technology and I am always looking for new challenges. 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Passionate+about+technology+and+I+am+always+looking+for+new+challenges;Second+line+of+text)](https://git.io/typing-svg)
 
 </div>  
   

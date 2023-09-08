@@ -2,8 +2,10 @@
 <img src="https://github.com/Luqui-Araujo/Luqui-Araujo/blob/main/header.png?raw=true" align="center" style="width: 100%" />
 </div>  
   
+<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Passionate+about+technology+and+I+am+always+looking+for+new+challenges;Second+line+of+text)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Always+looking+for+new+challenges)](https://git.io/typing-svg)
 
 </div>  
   

@@ -10,7 +10,7 @@
 </div>  
   
 
-- 💡Atualmente trabalhando em alguns projetos pessoais para me aperfeiçoar. Em busca de novas oportunidades onde eu possa me desenvolver.
+- 💡Trabalhando em alguns projetos pessoais para me aperfeiçoar. Em busca de novas oportunidades onde eu possa me desenvolver.
   
 
 - 👀Atualmente estudando desenvolvimento full-stack, porém com um interesse em particular no front.  

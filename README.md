@@ -10,7 +10,7 @@
 </div>  
   
 
-- 💡I am currently working on a few personal projects to help me improve my skills. I am also looking for internships and other opportunities to gain experience in the tech industry.
+- 💡Currently working on a few personal projects to help me improve my skills. I am also looking for internships and other opportunities to gain experience in the tech industry.
   
 
 - 👀I am currently learning full-stack development, with a particular interest in the front end  
@@ -19,17 +19,12 @@
 - ❤️Music lover  
   
 
-
 <br/>
 
 
 ## Skills  
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,angular)](https://skillicons.dev)
-
-
-
-
 
 
 <br/>  

@@ -1,11 +1,11 @@
 <div align="center">
-<img src="https://github.com/Luqui-Araujo/Luqui-Araujo/blob/main/capa.png?raw=true" align="center" style="width: 100%" border-radius: 10px />
+<img src="https://github.com/Luqui-Araujo/Luqui-Araujo/blob/main/capa.png?raw=true" align="center" style="width: 100%" />
 </div>  
   
 <br/>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=78F713&background=4320FF&vCenter=true&width=435&lines=Always+looking+for+new+challenges)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=09F7D5&background=4320FF00&vCenter=true&width=435&lines=Always+looking+for+new+challenges)](https://git.io/typing-svg)
 
 </div>  
   

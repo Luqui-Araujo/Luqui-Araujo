@@ -67,7 +67,9 @@
 </a>
 <a href="https://instagram.com/luquiviana" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
-</a>  
+</a>
+<a href="mailto:lucasaraujozel@gmail.com"></a>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </div>  
   
 

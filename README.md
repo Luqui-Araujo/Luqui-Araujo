@@ -25,7 +25,7 @@
 
 ## Skills  
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,java,angular)](https://skillicons.dev)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=8sez3qenp13y1qkaf6zmahuqx&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=8sez3qenp13y1qkaf6zmahuqx&redirect=true)
 
 
 

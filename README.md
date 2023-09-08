@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello! I'm Lucas👋
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luqui-Viana)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Luqui-Araujo/Luqui-Araujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

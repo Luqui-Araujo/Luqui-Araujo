@@ -16,7 +16,7 @@
 - 👀Atualmente estudando desenvolvimento full-stack, porém tenho um interesse em particular no front.  
   
 
-- ❤️Amante de música
+- ❤️Amante da música
   
 
 <br/>

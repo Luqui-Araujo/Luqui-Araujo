@@ -8,7 +8,7 @@
 </div>  
   
 
-- 💡I am currently working on a few personal projects to help me improve my skills. I am also looking for internships and other opportunities to gain experience in the tech industry.💡  
+- 💡I am currently working on a few personal projects to help me improve my skills. I am also looking for internships and other opportunities to gain experience in the tech industry.
   
 
 - 👀I am currently learning full-stack development, with a particular interest in the front end  
@@ -60,7 +60,7 @@
 <br/>  
 
 
-## Connect with me  
+## Contacts
 <div align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/lucas-viana-8b2180229" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -74,7 +74,7 @@
 <br/>  
 
 
-## Github Stats  
+## Stats
 <img src="https://github-readme-stats.vercel.app/api?username=Luqui-Araujo&theme=dracula&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
 <br/>  

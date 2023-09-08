@@ -5,12 +5,12 @@
 <br/>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=09F7D5&background=4320FF00&vCenter=true&width=435&lines=Always+looking+for+new+challenges)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=09F7D5&background=4320FF00&vCenter=true&width=435&lines=Em+constante+desenvolvimento...)](https://git.io/typing-svg)
 
 </div>  
   
 
-- 💡Atualmente trabalhando em alguns projetos pessoais para me aperfeiçoar, em busca de novas oportunidades onde eu possa me desenvolver.
+- 💡Atualmente trabalhando em alguns projetos pessoais para me aperfeiçoar, em busca de novas oportunidades desafiadoras onde eu possa me desenvolver.
   
 
 - 👀Atualmente estudando desenvolvimento full-stack, porém tenho um interesse em particular no front.  

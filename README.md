@@ -45,13 +45,12 @@
   
 
 <br/>  
-<div align="left">
+<div align="left" style="float: left; margin-right: 20px;">
 
 ## Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luqui-Araujo&layout=compact) 
 </div>
 
-<br/>  
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=8sez3qenp13y1qkaf6zmahuqx&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 

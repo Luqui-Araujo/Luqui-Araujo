@@ -46,7 +46,7 @@
 
 <br/>  
 ## Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luqui-Araujo&layout=compact) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luqui-Araujo&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <div style="float: right;">

@@ -47,7 +47,7 @@
 
 ## Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luqui-Viana&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luqui-Araujo&show_icons=true&theme=transparent)
 
 <br/>
 

@@ -48,7 +48,7 @@
 <div align="left">
 
 ## Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luqui-Araujo&layout=compact) 
 </div>
 
 <br/>  

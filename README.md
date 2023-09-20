@@ -42,19 +42,13 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </div>  
-  
-<br/>  
-
-## Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luqui-Araujo&show_icons=true&theme=transparent)
 
 <br/>
-
+<div align="center">
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=8sez3qenp13y1qkaf6zmahuqx&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 <br/>  
 
-<div align="center">
+
 <img src="https://komarev.com/ghpvc/?username=Luqui-Araujo&&style=flat-square" align="center" />
 </div>  
   

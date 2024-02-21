@@ -24,7 +24,7 @@
 
 ## Skills  
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,angular)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,angular,c#,)](https://skillicons.dev)
 
 
 <br/>  

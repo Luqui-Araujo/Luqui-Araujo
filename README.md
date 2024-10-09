@@ -16,13 +16,11 @@
 
 ## Skills  
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,angular,cs,)](https://skillicons.dev)
-
-
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,dotnet,cs,mysql,postgres,figma)](https://skillicons.dev)
 <br/>  
 
 
-## Contatos
+## Contacts
 <div align="center">
 <a href="http://linkedin.com/in/lucas-viana-8b2180229" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -38,10 +36,6 @@
 <br/>
 
 ---
-
-<div align="center">
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=8sez3qenp13y1qkaf6zmahuqx&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-<br/>  
 
 </div>  
   

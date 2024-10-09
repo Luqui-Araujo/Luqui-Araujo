@@ -1,9 +1,7 @@
 <div align="center">
 <img src="https://github.com/Luqui-Araujo/Luqui-Araujo/blob/main/capa.png?raw=true" align="center" style="width: 100%" />
 </div>  
-  
-<br/>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=09F7D5&background=4320FF00&vCenter=true&width=435&lines=Em+constante+desenvolvimento...)](https://git.io/typing-svg)
+
 </div>  
 
 - 🌀 Meu nome é Lucas tenho 21 anos.

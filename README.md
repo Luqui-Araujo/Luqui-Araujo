@@ -3,22 +3,15 @@
 </div>  
   
 <br/>
-
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=09F7D5&background=4320FF00&vCenter=true&width=435&lines=Em+constante+desenvolvimento...)](https://git.io/typing-svg)
-
 </div>  
-  
 
-- 💡Trabalhando em alguns projetos pessoais para me aperfeiçoar. Em busca de novas oportunidades onde eu possa me desenvolver.
-  
-
-- 👀Atualmente estudando desenvolvimento full-stack, porém com um interesse em particular no front.  
-  
-
-- ❤️Amante da música
-  
-
+- 🌀 Meu nome é Lucas tenho 21 anos.
+- 🌀 Estudante de Análise e Desenvolvimento de Sistemas.
+- 🌀 Foco em desenvolvimento .NET.
+- 🌀 Conhecimento intermediário avançado em Inglês.
+- 🌀 Moro em Goiânia, Goiás, Brasil 🇧🇷.
+- 🌀 Buscando novas oportunidades onde eu possa me desenvolver e aprender.
 <br/>
 
 
@@ -48,11 +41,8 @@
 ---
 
 <div align="center">
-  
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=8sez3qenp13y1qkaf6zmahuqx&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 <br/>  
 
-
-<img src="https://komarev.com/ghpvc/?username=Luqui-Araujo&&style=flat-square" align="center" />
 </div>  
   

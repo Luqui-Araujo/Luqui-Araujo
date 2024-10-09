@@ -2,6 +2,7 @@
 <img src="https://github.com/Luqui-Araujo/Luqui-Araujo/blob/main/capa.png?raw=true" align="center" style="width: 100%" />
 </div>  
 
+<br/>
 </div>  
 
 - 🌀 Meu nome é Lucas tenho 21 anos.
